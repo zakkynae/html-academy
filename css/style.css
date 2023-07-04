@@ -80,10 +80,61 @@ li a {
     line-height: 16px;
 }
 
-/* main h2 {
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-decoration-color: #00c6bd;
-    text-underline-offset: 16px;
-    text-underline-position: under;
-} */
+figcaption {
+    color: #8693A4;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
+
+.news h3 {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.news-descr {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.participants {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.participants-item {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+blockquote {
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    border-left: 2px solid #00c6bd;
+}
+
+.author-news {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19px;
+}
+
+.time-news {
+    color: #8693A4;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+}
